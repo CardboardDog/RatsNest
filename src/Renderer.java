@@ -1,7 +1,6 @@
 package com.en.RatsNest;
 import java.awt.*;
 import java.awt.image.BufferedImage;
-
 import javax.swing.JPanel;
 public class Renderer extends JPanel{
     public float cameraX = 0.0f;
